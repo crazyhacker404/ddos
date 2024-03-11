@@ -1,0 +1,2 @@
+import RNDM
+RNDM.covidx()
